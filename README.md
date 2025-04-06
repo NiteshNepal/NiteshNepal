@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects.**
 
-- 🌱 I’m currently learning **Deep Learning and Computer Vision**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **Machine Learning, Data Science, AIOPS.**
+- 💬 Ask me about **Machine Learning, Data Science, AIOPS, Generative AI, LLMs**
 
 - 📫 How to reach me **ds.niteshnepal@gmail.com**
 
